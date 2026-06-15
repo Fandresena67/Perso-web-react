@@ -32,7 +32,7 @@ export default function Hero({ scrollTo }) {
             letterSpacing: "0.14em", textTransform: "uppercase",
             marginBottom: 12,
           }}>
-              Étudiant en Informatique | Passionné par le Développement Web | Intéressé par l'IA et les Technologies Cloud
+            Étudiant en Informatique | Passionné par le Développement Web | Intéressé par l'IA et les Technologies Cloud
           </p>
 
           <h1 style={{
