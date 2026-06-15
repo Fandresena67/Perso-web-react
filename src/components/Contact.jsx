@@ -62,7 +62,7 @@ export default function Contact() {
             Envoyer un message direct
           </h3>
           <p style={{ color: "#64748b", fontSize: 13, margin: "0 0 20px" }}>
-            {/* Le message sera envoye directement sur fandresenanatolo@gmail.com */}
+            {/* Le message sera envoye directement sur mon e-mail */}
           </p>
           <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
             <input type="text" placeholder="Votre nom complet"

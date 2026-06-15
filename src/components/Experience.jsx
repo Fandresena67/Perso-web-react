@@ -3,7 +3,7 @@ import { experiences } from "../data/data"
 const formation = [
   {
     title: "Licence 2 en Informatique",
-    school: "Universite — Antananarivo",
+    school: "Universite — Ecole de Manangement et d'Innovation Technologique Fianarantsoa ",
     period: "2024 – Present",
     matieres: ["Algorithmique", "Programmation", "Base de donnees", "Dev Web", "Reseaux", "Linux", "Genie Logiciel", "IA (bases)"],
   },
@@ -94,7 +94,7 @@ export default function Experience() {
               </div>
             ))}
 
-            {/* SOFT SKILLS */}
+            {/* SOFT SKILLS  "Creatif"*/}
             <div style={{
               background: "#1e293b", borderRadius: 14,
               padding: 20, border: "1px solid #334155",
@@ -106,7 +106,7 @@ export default function Experience() {
                 Qualites Personnelles
               </h4>
               <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
-                {["Curieux", "Autonome", "Creatif", "Organise", "Rapide", "Perseverant", "Motive", "Adaptable"].map(q => (
+                {["Curieux", "Autonome", "Organise", "Perseverant", "Motive", "Adaptable"].map(q => (
                   <span key={q} style={{
                     background: "#0f172a", color: "#60a5fa",
                     border: "1px solid #1e3a5f",

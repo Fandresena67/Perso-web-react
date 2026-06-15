@@ -8,18 +8,18 @@ export const navLinks = [
 ]
 
 export const skills = [
-  { name: "HTML5 / CSS3", level: 90, cat: "Frontend" },
-  { name: "JavaScript ES6+", level: 70, cat: "Frontend" },
-  { name: "React.js", level: 60, cat: "Frontend" },
-  { name: "Tailwind CSS", level: 50, cat: "Frontend" },
-  { name: "Node.js / Express", level: 50, cat: "Backend" },
-  { name: "API REST", level: 45, cat: "Backend" },
+  { name: "HTML5 / CSS3", level: 65, cat: "Frontend" },
+  { name: "JavaScript ES6+", level: 20, cat: "Frontend" },
+  { name: "React.js", level: 25, cat: "Frontend" },
+  { name: "Tailwind CSS", level: 30, cat: "Frontend" },
+  { name: "Node.js / Express", level: 25, cat: "Backend" },
+  { name: "API REST", level: 50, cat: "Backend" },
   { name: "MySQL / SQL", level: 70, cat: "Backend" },
-  { name: "Python", level: 45, cat: "IA" },
+  { name: "Python", level: 40, cat: "IA" },
   { name: "Linux / Ubuntu", level: 85, cat: "Outils" },
   { name: "Git / GitHub", level: 75, cat: "Outils" },
   { name: "Vercel / Cloudflare  / Railway / Render", level: 75, cat: "Outils" },
-  { name: "Nodemailer", level: 56, cat: "Outils" },
+  { name: "Nodemailer", level: 70, cat: "Outils" },
 ]
 
 export const projects = [
@@ -70,8 +70,8 @@ export const experiences = [
 
 export const langues = [
   { lang: "Malagasy", level: "Langue maternelle", pct: 100, color: "#22c55e" },
-  { lang: "Francais", level: "Bon niveau", pct: 80, color: "#60a5fa" },
-  { lang: "Anglais", level: "Technique intermediaire", pct: 55, color: "#f59e0b" },
+  { lang: "Francais", level: "Courant", pct: 50, color: "#60a5fa" },
+  { lang: "Anglais", level: "Notions", pct: 35, color: "#f59e0b" },
 ]
 
 export const interets = [
@@ -92,6 +92,7 @@ export const contacts = [
     color: "#22c55e",
     action: "Appeler sur WhatsApp",
   },
+
   {
     icon: "✉️",
     label: "Email",

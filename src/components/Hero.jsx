@@ -50,9 +50,7 @@ export default function Hero({ scrollTo }) {
             color: "#94a3b8", fontSize: mobile ? 15 : 17,
             lineHeight: 1.8, margin: "0 0 28px",
           }}>
-            Etudiant en 2e année de Licence Informatique à Fianarantsoa.
-            Passionné par le web moderne, l'IA et les technologies cloud.
-            Je construis des projets réels en React, Node.js et Linux ......
+                Étudiant en L2 Informatique, passionné par la programmation et les nouvelles technologies. J'apprends le développement web avec HTML, CSS, JavaScript, React, Node.js et PHP, ainsi que la gestion des bases de données avec MySQL et PostgreSQL. Je réalise des projets personnels pour renforcer mes compétences et développer mon expérience pratique.
           </p>
 
           <div style={{ display: "flex", gap: 12, flexWrap: "wrap", marginBottom: 24 }}>
