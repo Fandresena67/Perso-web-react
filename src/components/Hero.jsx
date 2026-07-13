@@ -50,7 +50,7 @@ export default function Hero({ scrollTo }) {
             color: "#94a3b8", fontSize: mobile ? 15 : 17,
             lineHeight: 1.8, margin: "0 0 28px",
           }}>
-                Étudiant en L2 Informatique, passionné par la programmation et les nouvelles technologies. J'apprends le développement web avec HTML5, CSS3, JavaScript, python, React, et PHP, ainsi que la gestion des bases de données avec MySQL. Je réalise des projets personnels pour renforcer mes compétences et développer mon expérience pratique.
+                Étudiant en L2 Informatique, passionné par la programmation et les nouvelles technologies. J'apprends le développement web avec HTML5, CSS3, JavaScript, python, PHP et React, ainsi que la gestion des bases de données avec MySQL. Je réalise des projets personnels pour renforcer mes compétences et développer mon expérience pratique.
           </p>
 
           <div style={{ display: "flex", gap: 12, flexWrap: "wrap", marginBottom: 24 }}>
