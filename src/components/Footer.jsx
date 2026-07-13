@@ -19,9 +19,9 @@ export default function Footer({ scrollTo }) {
               <span style={{ color: "#64748b", fontSize: 16, fontWeight: 400 }}> NATOLOJANAHARY</span>
             </p>
             <p style={{ color: "#475569", fontSize: 14, lineHeight: 1.7, margin: "0 0 16px" }}>
-              Etudiant en Informatique passionne par le web, l'IA et les technologies cloud. Antananarivo, Madagascar.
+              Etudiant en Informatique passionne par le web, réseaux, l'IA et les technologies cloud. Fianarantsoa, Madagascar.
             </p>
-            <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
+            {/* <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
               {contacts.map(c => (
                 <a key={c.label} href={c.link} target="_blank" rel="noopener noreferrer"
                   title={c.action}
@@ -34,7 +34,7 @@ export default function Footer({ scrollTo }) {
                   {c.icon}
                 </a>
               ))}
-            </div>
+            </div> */}
           </div>
 
           {/* NAVIGATION */}

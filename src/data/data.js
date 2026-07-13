@@ -18,7 +18,7 @@ export const skills = [
   { name: "Python", level: 40, cat: "IA" },
   { name: "Linux / Ubuntu", level: 85, cat: "Outils" },
   { name: "Git / GitHub", level: 75, cat: "Outils" },
-  { name: "Vercel / Cloudflare  / Railway / Render", level: 75, cat: "Outils" },
+  { name: "Vercel / Railway / Render", level: 75, cat: "Outils" },
   { name: "Nodemailer", level: 70, cat: "Outils" },
 ]
 
